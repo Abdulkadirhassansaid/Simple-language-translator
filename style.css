@@ -62,4 +62,6 @@ button:hover {
     border-radius: 10px;
 }
 
-
+span {
+text-align:center;
+}
